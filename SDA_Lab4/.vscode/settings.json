@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "ncurses.h": "c",
+        "stdio.h": "c"
+    }
+}
